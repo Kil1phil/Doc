@@ -8,10 +8,11 @@ The new PCBs from version Svalboard TC3.12L have an LED installed. The LED indic
 
 To adjust the brightness, the button must be assigned in the Vial software
 
-![[Pasted image 20240721184444.png]]
+[![Vial-Settings.png](https://i.postimg.cc/MTmCSDc2/Vial-Settings.png)](https://postimg.cc/7Gbs1SMm)
 
 The LED then becomes correspondingly brighter.
 
-Without adjustment![[20240721_175628.jpg|640x720]]
+Without adjustment
+[![20240721-175628.jpg](https://i.postimg.cc/4NgYwNGY/20240721-175628.jpg)](https://postimg.cc/kDTMgCBC)
 With customization
-![[20240721_180512.jpg|640x720]]
+[![20240721-180512.jpg](https://i.postimg.cc/cCZd7C3Z/20240721-180512.jpg)](https://postimg.cc/9R83CW1N)
