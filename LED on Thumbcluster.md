@@ -12,7 +12,7 @@ To adjust the brightness, the button must be assigned in the Vial software
 
 The LED then becomes correspondingly brighter.
 
-Without adjustment
+Without adjustment/
 
 
 
